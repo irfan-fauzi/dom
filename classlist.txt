@@ -1,0 +1,6 @@
+element.classList.add() = untuk menambah elemen class pada clas yang sudah ada (double class)
+element.classList.remove() = untuk menghapus class yang sudah ada
+element.classList.toggle() = (special) menambah class jika tidak ada class, tapi akan menghapus class jika komponen tsb sudah punya class 
+element.classList.item() = untuk mengetahui class tertentu yang ada di sebuah elemen
+element.classList.contains() = check, dalam sebuah elemen, punya gak kelas tertentu ?
+element.classList.replace() = mengganti nama class

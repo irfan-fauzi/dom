@@ -1,0 +1,7 @@
+document.createElement()
+document.createTextnode()
+node.appendChild()
+node.insertBefore()
+parentNode.removeChild()
+parentNode.replaceChild()
+...
